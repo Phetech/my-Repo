@@ -1,3 +1,3 @@
-#Repo
+# Repo
 
-my first git
+my first git!
